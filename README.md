@@ -29,7 +29,7 @@ Star and Watch the repo and pull new changes regularly.
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
-|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
+|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source | 
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open | :heavy_check_mark: (applied)
 |[Edvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
@@ -46,7 +46,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |Open - Open source|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
-|[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
+|[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open | :heavy_check_mark: (applied)
 |[Valeo](https://valeo.smarpshare.com/app.microblog/#/6231f94c2ba46d0001ad74fc)| Cairo | Open until 24 March - [Form Link](https://docs.google.com/forms/d/e/1FAIpQLScv3CzpU_sTApsZa6VaqZW2PfdmYf0vci9DbK4IAoQjIklOyQ/viewform) |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
